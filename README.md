@@ -13,7 +13,7 @@ Step 4: Bivaraiate/Multivariate Analysis<br><br>
 Step 5: Results<br><br>
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-<br><br>
+
 ## Observation:
 1. Higher the interest rate higher charged off ratio.<br><br>
 2. Increase in number of charged off with increase in year.<br><br>
